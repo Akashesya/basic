@@ -25,9 +25,12 @@ int main() {
     int counter = 0; 	// Initialize counter variable
     int max_blinks = 5; 	// Maximum number of blinks
     int threshold = 3; 	// Threshold for conditional check
+    int button;
+    scanf( "%d",&button);
 
     // Loop to blink the LED
     // The for loop iterates a known number of times (max_blinks)
+    if(button){
     for(counter=0; counter<max_blinks; counter++){
             // Conditional statement (if-else)
         // Checks if the current counter value is less than the threshold
@@ -75,6 +78,7 @@ int main() {
          delay_ms(200);
 }
     printf("Liftoff!\n");
+}
 
     return 0; 	// Indicate successful execution
 } 
