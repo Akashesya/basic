@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "LED_BLINKING_THROUGH_BUTTON",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
