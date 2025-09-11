@@ -1,0 +1,15 @@
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\bin\Debug\net8.0\demo_project.exe
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\bin\Debug\net8.0\demo_project.deps.json
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\bin\Debug\net8.0\demo_project.runtimeconfig.json
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\bin\Debug\net8.0\demo_project.dll
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\bin\Debug\net8.0\demo_project.pdb
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\obj\Debug\net8.0\demo_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\obj\Debug\net8.0\demo_project.AssemblyInfoInputs.cache
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\obj\Debug\net8.0\demo_project.AssemblyInfo.cs
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\obj\Debug\net8.0\demo_project.csproj.CoreCompileInputs.cache
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\obj\Debug\net8.0\demo_project.sourcelink.json
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\obj\Debug\net8.0\demo_project.dll
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\obj\Debug\net8.0\refint\demo_project.dll
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\obj\Debug\net8.0\demo_project.pdb
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\obj\Debug\net8.0\demo_project.genruntimeconfig.cache
+D:\basic\Dot_Net\class_practice\demo_project\demo_project\obj\Debug\net8.0\ref\demo_project.dll
